@@ -1,0 +1,5 @@
+Best: -8.932250 using {'fit_intercept': True} 
+Best: -1.780696 using {'alpha': 10, 'max_iter': 1000, 'solver': 'lsqr'} 
+Best: -0.164977 using {'max_depth': 100, 'min_samples_leaf': 4, 'min_samples_split': 2} 
+Best: -0.336533 using {'learning_rate': 0.01, 'loss': 'exponential', 'n_estimators': 100} 
+Best: -0.118545 using {'max_depth': 100, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 1000}
