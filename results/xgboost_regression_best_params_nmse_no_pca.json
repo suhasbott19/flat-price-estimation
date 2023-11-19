@@ -1,0 +1,1 @@
+{"booster": "gbtree", "learning_rate": 0.01, "max_depth": 10, "n_estimators": 800}
